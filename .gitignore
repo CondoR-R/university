@@ -36,3 +36,6 @@ optuna.db
 
 # pytest
 .pytest_cahce
+
+
+note.md
